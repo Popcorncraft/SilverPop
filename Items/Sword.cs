@@ -14,7 +14,7 @@ namespace SilverPop.Items
 
 		public override void SetDefaults()
 		{
-			Item.damage = 50;
+			Item.damage = 51;
 			Item.DamageType = DamageClass.Melee;
 			Item.width = 40;
 			Item.height = 40;
